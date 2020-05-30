@@ -7,6 +7,8 @@ public class FirstOnDevins {
 		
 		// TODO Auto-generated method stub
 System.out.println("Hello World FirstOnDevins laptop X1x");
+	while (true)
+		continue;
 	}
 
 }
