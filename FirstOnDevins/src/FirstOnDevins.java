@@ -9,6 +9,7 @@ public class FirstOnDevins {
 System.out.println("Hello World FirstOnDevins laptop X1x");
 	while (true)
 		continue;
+	
 	}
 
 }
